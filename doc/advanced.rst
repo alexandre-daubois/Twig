@@ -775,7 +775,7 @@ responsible for parsing the tag and compiling it to PHP.
 Operators
 ~~~~~~~~~
 
-The ``getOperators()`` methods lets you add new operators. To implement a new
+The ``getOperators()`` method lets you add new operators. To implement a new
 one, have a look at the default operators provided by
 ``Twig\Extension\CoreExtension``.
 
